@@ -1,0 +1,36 @@
+
+
+.masthead {
+
+  min-height: 50vh;
+  background-image: url('/homepageimg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#biglogo{
+  height: 10%;
+  width: 10%;
+}
+.heading{
+  color: midnightblue;
+}
+
+.picsize{
+  min-height: 130px;
+}
+
+form{
+  opacity: .6;
+}
+@media (max-width:768px){
+  .masthead{
+    min-height: 30vh;
+  }
+  select{
+    min-width: 50%;
+  }
+  .hello{
+    min-width: 325px;
+  }
+}
