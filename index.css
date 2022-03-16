@@ -3,7 +3,7 @@
 .masthead {
 
   min-height: 50vh;
-  background-image: url('/homepageimg.png');
+  background-image: url('homepageimg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
